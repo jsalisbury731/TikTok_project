@@ -5,11 +5,6 @@ verifyFp="verify_7d2989b7e9d41d606a7e16750e49379c"
 api = TikTokApi.get_instance(custom_verifyFp=verifyFp)
 
 
-username = 'therock'
-
-user_detail_pull = api.get_user(username = username)
-
-
 def user_dict(tiktok_dict):
   to_return = {}
   to_return['user_name'] = []
@@ -39,6 +34,11 @@ def user_dict(tiktok_dict):
   return to_return
 
 
+username = 'therock'
+
+user_detail_pull = api.get_user(username = username)
+
+
 
 output = user_dict(user_detail_pull)
 print(type(output))
@@ -54,4 +54,4 @@ print(output_df)
 #
 # print(videos_df)
 #
-output_df.to_csv(f'get_user.csv', index=False)
+output_df.to_csv(f'./csv/get_user_{username}.csv', index=False)

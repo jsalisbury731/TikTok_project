@@ -5,11 +5,6 @@ verifyFp = "verify_7d2989b7e9d41d606a7e16750e49379c"
 api = TikTokApi.get_instance(custom_verifyFp=verifyFp)
 
 
-hashtag = 'money'
-n_count = 10
-
-hashtag_pull = api.by_hashtag(hashtag = hashtag, count = n_count)
-
 def simple_dict(tiktok_dict):
   to_return = {}
   to_return['user_name'] = tiktok_dict['author']['uniqueId']
@@ -28,6 +23,16 @@ def simple_dict(tiktok_dict):
 
 
 
+hashtag = 'affiliatemarketing'
+n_count = 25
+offset = 0
+
+hashtag_pull = api.by_hashtag(hashtag = hashtag, count = n_count, offset = offset)
+
+
+
+
+
 
 videos = [simple_dict(v) for v in hashtag_pull]
 videos_df = pd.DataFrame(videos)
@@ -35,4 +40,4 @@ videos_df = pd.DataFrame(videos)
 
 # print(videos_df)
 
-videos_df.to_csv(f'hashtag_{hashtag}.csv', index=False)
+videos_df.to_csv(f'./csv/hashtag_{hashtag}.csv', index=False)

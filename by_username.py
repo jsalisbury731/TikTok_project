@@ -5,12 +5,6 @@ verifyFp="verify_7d2989b7e9d41d606a7e16750e49379c"
 api = TikTokApi.get_instance(custom_verifyFp=verifyFp)
 
 
-username = 'therock'
-n_count = 50
-
-user_videos_pull = api.by_username(username = username, count = n_count)
-
-
 def user_dict(tiktok_dict):
   to_return = {}
   to_return['video_id'] = tiktok_dict['id']
@@ -33,10 +27,15 @@ def user_dict(tiktok_dict):
   return to_return
 
 
+username = 'therock'
+n_count = 2000
+
+user_videos_pull = api.by_username(username = username, count = n_count)
+
 users_videos = [user_dict(v) for v in user_videos_pull]
 users_videos_df = pd.DataFrame(users_videos)
 
 
-print(users_videos_df)
+# print(users_videos_df)
 
-users_videos_df.to_csv(f'user_videos_{username}.csv', index=False)
+users_videos_df.to_csv(f'./csv/user_videos_{username}.csv', index=False)
