@@ -1,0 +1,1380 @@
+[
+	{
+		'id': '6951123413905837318',
+		'desc': 'You heard right, guac is on me. Hit my bio for more info! #GuacOnTheRock 🥑🗿',
+		'createTime': 1618434542,
+		'video': {
+			'id': '6951123413905837318',
+			'height': 1024,
+			'width': 576,
+			'duration': 9,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/45feb8e0358e4d49bd3b0511f574a93b_1618434543?x-expires=1622901600&x-signature=jcoZtmQnnEEDDAC5W6qs4ntCZZM%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0392c3cb38bd4a9fa9ae36fcfb080c07_1618434544?x-expires=1622901600&x-signature=f%2FdZW7rYU9B2FE9a1bbO71JVooE%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fb406230d0824fdfa4e08498730b76bc_1618434544?x-expires=1622901600&x-signature=onxVwD6P5zhbZt3YQm%2BEI8glIHA%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/b3ce3389708b4a329f53a67a6826e705/?a=1988&br=2280&bt=1140&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901869&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=Mzo0PHVoZXNvNDMzNzczM0ApNGY5NjlpNGQ3NzxkNWYzZWcucGlgYHBfZ29gLS1kMTZzczZiL2EwLjVhYi5iMDYuMDU6Yw%3D%3D&signature=e10e63e065bb6083c99725ee333e38a7&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/b3ce3389708b4a329f53a67a6826e705/?a=1988&br=2280&bt=1140&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901869&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=Mzo0PHVoZXNvNDMzNzczM0ApNGY5NjlpNGQ3NzxkNWYzZWcucGlgYHBfZ29gLS1kMTZzczZiL2EwLjVhYi5iMDYuMDU6Yw%3D%3D&signature=e10e63e065bb6083c99725ee333e38a7&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0392c3cb38bd4a9fa9ae36fcfb080c07_1618434544~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=b%2Fm2N0Mh6GQa8nlAx9NL5WT10Ds%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/0392c3cb38bd4a9fa9ae36fcfb080c07_1618434544~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=cGj0mJMNQ3nf1HP2ehwXI57nUSI%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e56aa002ba65a86286d040690f77cd8f?x-expires=1622901600&x-signature=3frQCo05Dr2yOSlzMGbDxJk%2BNPQ%3D',
+			'bitrate': 1167808,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6737698700086233861',
+			'title': 'the real sorority check',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/1644946538966021.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d45f4d0d5eba46eaa1c931fa52ff147~c5_100x100.jpeg?x-expires=1622966400&x-signature=WfeIkwV8adtWMft3EHgOIsEwu8E%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d45f4d0d5eba46eaa1c931fa52ff147~c5_720x720.jpeg?x-expires=1622966400&x-signature=c%2BmCYJDEI%2BebII4Xr7C0uUwvK8o%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/2d45f4d0d5eba46eaa1c931fa52ff147~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=UonSIswdVN9a0CVM8RJuuUnZu2U%3D',
+			'authorName': 'elizabeth the first',
+			'original': True,
+			'duration': 20,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '1697051371524102',
+				'title': 'guacontherock',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 826600,
+			'shareCount': 4156,
+			'commentCount': 10500,
+			'playCount': 5300000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 58,
+				'end': 72,
+				'hashtagName': 'guacontherock',
+				'hashtagId': '1697051371524102',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6943665119285218566',
+		'desc': 'I’ll take the tequila shot challenge....with a smile😉🥃 #teremana #tequilashots',
+		'createTime': 1616698022,
+		'video': {
+			'id': '6943665119285218566',
+			'height': 1024,
+			'width': 576,
+			'duration': 25,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b8faab365814e7093986e430caca246_1616698026?x-expires=1622901600&x-signature=xsdy3eVq8jzgKZckfnvNgl7QdwA%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1cd696dc6d184104b35d50f79fc22978_1616698029?x-expires=1622901600&x-signature=rWwkZrfep78%2FD7OFXW0ODd69xWQ%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/96fda9ba5cd54b218d94a1518cd46450_1616698024?x-expires=1622901600&x-signature=Mtnhg4qpRBLGKhoDl8kPWHW6GWE%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c003/6cbc1cffaebb4d03b0cf219df8e65c49/?a=1988&br=2932&bt=1466&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901885&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=amw2ODVybjpnNDMzNTczM0ApM2ZpPDVpPGQ4Nzo5NmU2ZGcuLXNnYy0waWJgLS1fMTZzcy4wNi02XmIxMF41Yy5fM2M6Yw%3D%3D&signature=938fef18950807014a0c49001572f378&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c003/6cbc1cffaebb4d03b0cf219df8e65c49/?a=1988&br=2932&bt=1466&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901885&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=amw2ODVybjpnNDMzNTczM0ApM2ZpPDVpPGQ4Nzo5NmU2ZGcuLXNnYy0waWJgLS1fMTZzcy4wNi02XmIxMF41Yy5fM2M6Yw%3D%3D&signature=938fef18950807014a0c49001572f378&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1cd696dc6d184104b35d50f79fc22978_1616698029~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=HeYUWfjb60pSEGN41pCwI4AL%2FZI%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/1cd696dc6d184104b35d50f79fc22978_1616698029~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=kHCn%2FNqWVAm9HYl2b4tAOFbvrt4%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d1c69f98d0a608e7435d1d56a964a08d?x-expires=1622901600&x-signature=ldWQYVshwP%2FGySF3rNCj%2BeMA8sE%3D',
+			'bitrate': 1501479,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6934443193622678277',
+			'title': 'original sound',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6934443229546875653.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad099886a78e05bd600fedc79701df86~c5_100x100.jpeg?x-expires=1622966400&x-signature=6De0bmH9g68RnEOB20Q2sZI6JrY%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad099886a78e05bd600fedc79701df86~c5_720x720.jpeg?x-expires=1622966400&x-signature=6nyNaIZp%2FtysftSAfwcbraaMSe4%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ad099886a78e05bd600fedc79701df86~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=JDM8dzYEyDpEarHj5%2FHdaDBakoI%3D',
+			'authorName': 'Fia James',
+			'original': True,
+			'duration': 14,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '1650938650493957',
+				'title': 'teremana',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '545644',
+				'title': 'tequilashots',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 14700000,
+			'shareCount': 259100,
+			'commentCount': 144000,
+			'playCount': 67400000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 57,
+				'end': 66,
+				'hashtagName': 'teremana',
+				'hashtagId': '1650938650493957',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 67,
+				'end': 80,
+				'hashtagName': 'tequilashots',
+				'hashtagId': '545644',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6942582680731094278',
+		'desc': 'A rush of healthy energy guaranteed in every sip🍃💥 Sip your ZO...now let’s GO!#ZOAEnergy',
+		'createTime': 1616445997,
+		'video': {
+			'id': '6942582680731094278',
+			'height': 1024,
+			'width': 576,
+			'duration': 20,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4ac0a9994f32492294d1eee944d97f1b_1616446000?x-expires=1622901600&x-signature=6q4WUZ%2Fck54R9FFViVuh2ZnswYU%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c7b2ade78a904278a520a3ead1028f96_1616446004?x-expires=1622901600&x-signature=zbBF7v%2BiQFzqO1XpR2TZaPcZm1E%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/b5cd7d1af1af49369ef93c80b0831163_1616446000?x-expires=1622901600&x-signature=nv6LZtlNQGJRjlx01uvwYn5iiwI%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c002/6af5295649e347f5aa504d03bbac09b0/?a=1988&br=2696&bt=1348&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901880&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzlxOm5zPDxqNDMzOzczM0ApOTc4O2c6ZGQ7Nzo5ZDo5M2deMmg2Mms0MWBgLS1gMTZzc2AyYzEzMzJeXmEyYTM0YC06Yw%3D%3D&signature=0f4dfd616db18ed73d382549b67c5a41&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c002/6af5295649e347f5aa504d03bbac09b0/?a=1988&br=2696&bt=1348&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901880&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzlxOm5zPDxqNDMzOzczM0ApOTc4O2c6ZGQ7Nzo5ZDo5M2deMmg2Mms0MWBgLS1gMTZzc2AyYzEzMzJeXmEyYTM0YC06Yw%3D%3D&signature=0f4dfd616db18ed73d382549b67c5a41&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c7b2ade78a904278a520a3ead1028f96_1616446004~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=PRxQK6O1m28lM8iTdXggEtizW9M%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c7b2ade78a904278a520a3ead1028f96_1616446004~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=SBB2OU6mWt0YuCkjnQ%2F46KaS3%2Fs%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/430c6f2bbd2a51adb335ab59e1039106?x-expires=1622901600&x-signature=j8PU3jFGrN70ZLDGKjt5B9dpl6g%3D',
+			'bitrate': 1380953,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6942582581338704646',
+			'title': 'original sound',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6942582703690681093.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'authorName': 'The Rock',
+			'original': True,
+			'duration': 20,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '1691437937478662',
+				'title': 'zoaenergy',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 404600,
+			'shareCount': 1139,
+			'commentCount': 3219,
+			'playCount': 3600000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 82,
+				'end': 92,
+				'hashtagName': 'zoaenergy',
+				'hashtagId': '1691437937478662',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'stickersOnItem': [
+			{
+				'stickerType': 4,
+				'stickerText': [
+					'SIP YOUR ZO...',
+					'...NOW LET’S GO!'
+				]
+			}
+		],
+		'isAd': False
+	},
+	{
+		'id': '6940342737275260166',
+		'desc': 'Mahalo for Rock’n Down Memory Lane with me👊🏾 #YoungRock #StrikeAPose',
+		'createTime': 1615924470,
+		'video': {
+			'id': '6940342737275260166',
+			'height': 1024,
+			'width': 576,
+			'duration': 20,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/7956f07f905145c89055a0d28c441d65_1615924488?x-expires=1622901600&x-signature=hnksXHPUBAO9Epmr9dic%2FnjWAjQ%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/c1dc5955845145e7bf68af9391e1b68d_1615924474?x-expires=1622901600&x-signature=6uXxSk8hcjVCjGfqwkr7AzO3cOU%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/14373ed395c64c958e31a05b5679026f_1615924490?x-expires=1622901600&x-signature=fQYmfoH5kHihHjJY8R9ESoCPvC8%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/030e81c4a8364bbfb61b2b40c928257a/?a=1988&br=2328&bt=1164&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901880&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M2d0b2llaHVqNDMzMzczM0ApOWc0NjhnOzxmNzdnNTtlaGcuazMxMjJnbTVgLS0xMTZzczVjLTRiNC8vMjBfMDMyMmA6Yw%3D%3D&signature=0b3f9bd9929a94c605f30dd715818935&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/030e81c4a8364bbfb61b2b40c928257a/?a=1988&br=2328&bt=1164&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901880&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M2d0b2llaHVqNDMzMzczM0ApOWc0NjhnOzxmNzdnNTtlaGcuazMxMjJnbTVgLS0xMTZzczVjLTRiNC8vMjBfMDMyMmA6Yw%3D%3D&signature=0b3f9bd9929a94c605f30dd715818935&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c1dc5955845145e7bf68af9391e1b68d_1615924474~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=bSnQGO2nHgQnUXPJeRSCp2B56kE%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/c1dc5955845145e7bf68af9391e1b68d_1615924474~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=V%2BC2MeStrvvDMOfAuZOKD6Y88Os%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/1b288eb8878cde56f741bfc4b3101f87?x-expires=1622901600&x-signature=%2F%2BcdRGJLSz9IFJ7JytLbzDUpud0%3D',
+			'bitrate': 1192397,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6769428709129586690',
+			'title': 'Electrifying (The Rock)',
+			'playUrl': 'https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/e7884446b9ffa2f1d5e969dbf59053af.m4a',
+			'coverThumb': 'https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/5db7f95fec2d4e51813f96925e829a03.jpeg',
+			'coverMedium': 'https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-i-0000/5db7f95fec2d4e51813f96925e829a03.jpeg',
+			'coverLarge': 'https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/5db7f95fec2d4e51813f96925e829a03.jpeg',
+			'authorName': 'WWE & Jim Johnston',
+			'original': False,
+			'duration': 60,
+			'album': 'Electrifying (The Rock)'
+		},
+		'challenges': [
+			{
+				'id': '1866601',
+				'title': 'youngrock',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '395900',
+				'title': 'strikeapose',
+				'desc': 'Snap and show us your top posing moment with #strikeapose.👔👗👠',
+				'profileThumb': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'profileMedium': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'profileLarger': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'coverThumb': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'coverMedium': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'coverLarger': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 347500,
+			'shareCount': 1342,
+			'commentCount': 3257,
+			'playCount': 3300000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 47,
+				'end': 57,
+				'hashtagName': 'youngrock',
+				'hashtagId': '1866601',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 58,
+				'end': 70,
+				'hashtagName': 'strikeapose',
+				'hashtagId': '395900',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6938501229962071301',
+		'desc': 'Speak things into existence. I (& the world) needed a truck emoji. Ladies & gents, I give you the NEW TRUCK EMOJI \U0001f6fb😊#YoureWelcome #TeamTruckDrivers',
+		'createTime': 1615495710,
+		'video': {
+			'id': '6938501229962071301',
+			'height': 1024,
+			'width': 576,
+			'duration': 59,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/2d89c2e5e1bc432db2e7922bde4f3114_1615495714?x-expires=1622901600&x-signature=P5Khac229OqnYdD8LenjqXNJC98%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/f19d41c34a1446768f29166e626b6bf4_1615495713?x-expires=1622901600&x-signature=pmORUdHV%2BK8%2BFuC%2BYFWEi2nPqUU%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/978d3e60eea24afc96821cbd976f97f0_1615495714?x-expires=1622901600&x-signature=HWFtuSpsVtjAJkkVksm%2Bwwxy55s%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/45ac1af18577433d909259e95ec98d7f/?a=1988&br=942&bt=471&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901919&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=ajszcjk3bjU7NDMzZzczM0ApNjpoOWQ2NTxnNzZpNmg0aWdyL3BwZ3JkMTJgLS0xMTZzcy9hLmEuYzYxLjJhNF4yLy86Yw%3D%3D&signature=8553d5079de61357e73b8fb07f1af811&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-ve-0068c004/45ac1af18577433d909259e95ec98d7f/?a=1988&br=942&bt=471&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901919&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=ajszcjk3bjU7NDMzZzczM0ApNjpoOWQ2NTxnNzZpNmg0aWdyL3BwZ3JkMTJgLS0xMTZzcy9hLmEuYzYxLjJhNF4yLy86Yw%3D%3D&signature=8553d5079de61357e73b8fb07f1af811&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f19d41c34a1446768f29166e626b6bf4_1615495713~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=onSA88e9i0epYPveu6b9TW0l2P0%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/f19d41c34a1446768f29166e626b6bf4_1615495713~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=xH7ataYchsVa7fVB0z5sy1EqPL8%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3cea4dede0f154a101ebfd7b622f815e?x-expires=1622901600&x-signature=cCZ4koq5UGbbjE7xX37LzQohfhI%3D',
+			'bitrate': 482395,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6938501199343766277',
+			'title': 'original sound',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6938501219291843334.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'authorName': 'The Rock',
+			'original': True,
+			'duration': 59,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '105297',
+				'title': 'yourewelcome',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '1671679788781573',
+				'title': 'teamtruckdrivers',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 662400,
+			'shareCount': 2521,
+			'commentCount': 66400,
+			'playCount': 3700000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 118,
+				'end': 131,
+				'hashtagName': 'yourewelcome',
+				'hashtagId': '105297',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 132,
+				'end': 149,
+				'hashtagName': 'teamtruckdrivers',
+				'hashtagId': '1671679788781573',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6937739978227076357',
+		'desc': 'You can’t just say your the #hardestworkerintheroom, you prove it👊🏾#sweatactivatedtank #projectrock',
+		'createTime': 1615318467,
+		'video': {
+			'id': '6937739978227076357',
+			'height': 1024,
+			'width': 576,
+			'duration': 14,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/fbf55aa1f89040fea6965c6b91c8499e_1615318469?x-expires=1622901600&x-signature=q8UOcZw%2FE1GKckC2Re2bESHErck%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/aed50b5f92814e2e9cba239186db102b_1615318473?x-expires=1622901600&x-signature=878cE4r0hobK%2FZeeM921D2Pda3s%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/a8e77ddd3d014511a76744060466498d_1615318469?x-expires=1622901600&x-signature=cMH1B3RGD68Nl1DMHJn12vmRuak%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/567ec8c74b13460b9d22dfe4bb85ecc8/?a=1988&br=2214&bt=1107&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901874&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzM8NDRmdWl2NDMzaDczM0ApODY6aDVmOztlN2U2OGRlZmdzZTZwcnBjbzBgLS01MTZzcy0zNjZjMTIzL2JeYDVhMTU6Yw%3D%3D&signature=ffe44123a7f01daf14bad6f204f23538&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/567ec8c74b13460b9d22dfe4bb85ecc8/?a=1988&br=2214&bt=1107&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901874&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzM8NDRmdWl2NDMzaDczM0ApODY6aDVmOztlN2U2OGRlZmdzZTZwcnBjbzBgLS01MTZzcy0zNjZjMTIzL2JeYDVhMTU6Yw%3D%3D&signature=ffe44123a7f01daf14bad6f204f23538&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/aed50b5f92814e2e9cba239186db102b_1615318473~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=%2BEy%2FW5eM8V3iOWbdkQL1ZCowmVk%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/aed50b5f92814e2e9cba239186db102b_1615318473~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=kS5bGHTlHp32UeThjG2vNM9QuHs%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/d2cee10ab18d57abd44e72d9b50fdda4?x-expires=1622901600&x-signature=KHOgRn0ST%2BrKodxEujfK0gCJD8E%3D',
+			'bitrate': 1133769,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6937739922862328582',
+			'title': 'original sound',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6937739934555982598.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'authorName': 'The Rock',
+			'original': True,
+			'duration': 14,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '49433446',
+				'title': 'hardestworkerintheroom',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '1693783143090181',
+				'title': 'sweatactivatedtank',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '66829260',
+				'title': 'projectrock',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 917200,
+			'shareCount': 5103,
+			'commentCount': 6612,
+			'playCount': 6700000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 28,
+				'end': 51,
+				'hashtagName': 'hardestworkerintheroom',
+				'hashtagId': '49433446',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 69,
+				'end': 88,
+				'hashtagName': 'sweatactivatedtank',
+				'hashtagId': '1693783143090181',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 89,
+				'end': 101,
+				'hashtagName': 'projectrock',
+				'hashtagId': '66829260',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6935521780459195654',
+		'desc': 'Returning to my old football field reminded me how crazy & unpredictable life can be. Every win & loss we face has a lesson for us. #Grateful 🏈🙏🏾',
+		'createTime': 1614802011,
+		'video': {
+			'id': '6935521780459195654',
+			'height': 1024,
+			'width': 576,
+			'duration': 29,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4e00854bdae347aeb22fd66ad892a2c2_1614802039?x-expires=1622901600&x-signature=WQgw1BKWecPyviSi0Y3t0FUOcC8%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3a69f64c7a104828a417fbb7e3ca3554_1614802037?x-expires=1622901600&x-signature=Sef4v4%2B52RNdWNftFqWAdVVd2os%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/74979a30499444d2969898808fac8468_1614802017?x-expires=1622901600&x-signature=rK0Smtd%2BqFvggcigWyr%2FyaBS4JM%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/ca71506c6d37484cb255c33fe38f90e9/?a=1988&br=2756&bt=1378&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901888&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M3lpdHNsZm54MzMzOjczM0ApNTM0ZWRnPGVoN2ZmZGg5OGdeaC41azBubHNgLS0wMTZzczJjXzUzX18uNi5eMzNhX2A6Yw%3D%3D&signature=39873ac170c870f4b23295853f5e718e&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/ca71506c6d37484cb255c33fe38f90e9/?a=1988&br=2756&bt=1378&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901888&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M3lpdHNsZm54MzMzOjczM0ApNTM0ZWRnPGVoN2ZmZGg5OGdeaC41azBubHNgLS0wMTZzczJjXzUzX18uNi5eMzNhX2A6Yw%3D%3D&signature=39873ac170c870f4b23295853f5e718e&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3a69f64c7a104828a417fbb7e3ca3554_1614802037~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=wOXxNzTVlNR7XMfyMl20XwUWUVc%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/3a69f64c7a104828a417fbb7e3ca3554_1614802037~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=XWKncybUsvxLkq8Kr8FiJGnFC38%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/4e00854bdae347aeb22fd66ad892a2c2_1614802039?x-expires=1622901600&x-signature=WQgw1BKWecPyviSi0Y3t0FUOcC8%3D',
+			'bitrate': 1411327,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6773436955838401285',
+			'title': 'Home',
+			'playUrl': 'https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/ed034e303be691a98c141995779f2192.mp3',
+			'coverThumb': 'https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/fc43c452fb9640fd816d2f589153d6e6.jpeg',
+			'coverMedium': 'https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-i-0000/fc43c452fb9640fd816d2f589153d6e6.jpeg',
+			'coverLarge': 'https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/fc43c452fb9640fd816d2f589153d6e6.jpeg',
+			'authorName': 'Edith Whiskers',
+			'original': False,
+			'duration': 59,
+			'album': 'Home'
+		},
+		'challenges': [
+			{
+				'id': '68780',
+				'title': 'grateful',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 2200000,
+			'shareCount': 9277,
+			'commentCount': 11900,
+			'playCount': 10700000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 132,
+				'end': 141,
+				'hashtagName': 'grateful',
+				'hashtagId': '68780',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6931029803353083142',
+		'desc': 'Reply to @the.f.b.i_ Welcome to #RockTok 👊🏾',
+		'createTime': 1613756141,
+		'video': {
+			'id': '6931029803353083142',
+			'height': 1024,
+			'width': 576,
+			'duration': 4,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/434e01347bd24ea18721d7171e9d77bf_1613756144?x-expires=1622901600&x-signature=KXg44Kw2AfkOmLJggJZS%2FZ0RQSY%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/77c20c597e6646098f715e8312dd4097_1613756168?x-expires=1622901600&x-signature=fEFydKiWR2ZrmiRf%2BNf1QXjCy9I%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/3e743ab531314a8ca3bf6ae2a6aec2f7_1613756143?x-expires=1622901600&x-signature=a7KYiUUqC9JRD1BDnOZ1el7zLjg%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/8e4ba1199214450fb411302e6fcc5a1a/?a=1988&br=1638&bt=819&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901864&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M285azZrbXF5MzMzNzczM0ApOzk4NTVpO2RnN2Y1ZWg6NGdgMWFjcWVnYWtgLS1fMTZzcy0tYS4zNTQyMGA1MjNgNGE6Yw%3D%3D&signature=bc07844b181e559f5e0d1307c4fb65ad&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/8e4ba1199214450fb411302e6fcc5a1a/?a=1988&br=1638&bt=819&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901864&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=M285azZrbXF5MzMzNzczM0ApOzk4NTVpO2RnN2Y1ZWg6NGdgMWFjcWVnYWtgLS1fMTZzcy0tYS4zNTQyMGA1MjNgNGE6Yw%3D%3D&signature=bc07844b181e559f5e0d1307c4fb65ad&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/77c20c597e6646098f715e8312dd4097_1613756168~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=a01Clgzb04Vv5acQm%2BBawQfwfxQ%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/77c20c597e6646098f715e8312dd4097_1613756168~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=fK7cAy7m5wZmXpM9xjr5sy10gtg%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/434e01347bd24ea18721d7171e9d77bf_1613756144?x-expires=1622901600&x-signature=KXg44Kw2AfkOmLJggJZS%2FZ0RQSY%3D',
+			'bitrate': 838989,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6720878449264691201',
+			'title': 'Ice Ice Baby',
+			'playUrl': 'https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/8ace94977b2ad81209a21133c2cc367b.m4a',
+			'coverThumb': 'https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-i-0000/c5dd428f6344492e9b04808352eb3b55.jpeg',
+			'coverMedium': 'https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-i-0000/c5dd428f6344492e9b04808352eb3b55.jpeg',
+			'coverLarge': 'https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-i-0000/c5dd428f6344492e9b04808352eb3b55.jpeg',
+			'authorName': 'Vanilla Ice',
+			'original': False,
+			'duration': 30,
+			'album': 'Vanilla Ice Is Back! - Hip Hop Classics'
+		},
+		'challenges': [
+			{
+				'id': '42476898',
+				'title': 'rocktok',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 1700000,
+			'shareCount': 4338,
+			'commentCount': 27300,
+			'playCount': 8600000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 9,
+				'end': 20,
+				'hashtagName': '',
+				'hashtagId': '',
+				'type': 0,
+				'userId': '6794426416320054278',
+				'isCommerce': False,
+				'userUniqueId': 'the.f.b.i_',
+				'secUid': 'MS4wLjABAAAAoufR8KzxX0fydw07P_e3CCm5ioJDvrBniEilC9hP8wZuaaTYZBiDP-PpDh5DuuYx'
+			},
+			{
+				'awemeId': '',
+				'start': 32,
+				'end': 40,
+				'hashtagName': 'rocktok',
+				'hashtagId': '42476898',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'stickersOnItem': [
+			{
+				'stickerType': 4,
+				'stickerText': [
+					'ROCKTOK?',
+					'I LIKE THE\nSOUND OF THAT...'
+				]
+			}
+		],
+		'isAd': False
+	},
+	{
+		'id': '6928823992618913030',
+		'desc': 'Time to Rock Down Memory Lane with my classic, trailblazin’, eyebrow raisin’ moves. Can you out-Rock me with a duet? #YoungRock #StrikeAPose',
+		'createTime': 1613242559,
+		'video': {
+			'id': '6928823992618913030',
+			'height': 1024,
+			'width': 576,
+			'duration': 8,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0bdb67d413a3433d9f0130f24c99378d_1613242561?x-expires=1622901600&x-signature=vPmLy0xGbUM4HyaOE6znJKK0cJY%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/ffafd7e6ada04595a28dc183f1191076_1613242561?x-expires=1622901600&x-signature=gfk3rNeWau%2Bzfi3vmBeFGg5E9Vk%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/153c2e4f96a64dc994a813e6177d7aa7_1613242563?x-expires=1622901600&x-signature=svrL3mIMDG45XhIOq70B5Mt7QEU%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/be9bc97fc6a7425c91e693fc9af46732/?a=1988&br=2106&bt=1053&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901868&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzhpZzM7O2g1MzMzNDczM0ApOjNnNjhlZWQ8NzVlNjc5aWdub2YvYGBfLmhgLS0xMTZzczY2MjM1Yy8xMjEzX2BeYWE6Yw%3D%3D&signature=a78ea6110e7a9f7bf0d37d4e1525e58b&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/be9bc97fc6a7425c91e693fc9af46732/?a=1988&br=2106&bt=1053&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901868&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=MzhpZzM7O2g1MzMzNDczM0ApOjNnNjhlZWQ8NzVlNjc5aWdub2YvYGBfLmhgLS0xMTZzczY2MjM1Yy8xMjEzX2BeYWE6Yw%3D%3D&signature=a78ea6110e7a9f7bf0d37d4e1525e58b&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ffafd7e6ada04595a28dc183f1191076_1613242561~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=Kde4wUtuTnCxOhlNHeGkh9ViJOA%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ffafd7e6ada04595a28dc183f1191076_1613242561~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=jOWu4uCmycjtR4TqVpAPGqKPJOM%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/0bdb67d413a3433d9f0130f24c99378d_1613242561?x-expires=1622901600&x-signature=vPmLy0xGbUM4HyaOE6znJKK0cJY%3D',
+			'bitrate': 1078568,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6928823973845224197',
+			'title': 'original sound',
+			'playUrl': 'https://sf16-ies-music-va.tiktokcdn.com/obj/musically-maliva-obj/6928823994275728133.mp3',
+			'coverThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'coverMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'coverLarge': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'authorName': 'The Rock',
+			'original': True,
+			'duration': 8,
+			'album': ''
+		},
+		'challenges': [
+			{
+				'id': '1866601',
+				'title': 'youngrock',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '395900',
+				'title': 'strikeapose',
+				'desc': 'Snap and show us your top posing moment with #strikeapose.👔👗👠',
+				'profileThumb': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'profileMedium': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'profileLarger': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690639097858.JPEG',
+				'coverThumb': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'coverMedium': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'coverLarger': 'https://p16-sg.tiktokcdn.com/obj/tiktok-obj/1623690632876033.JPEG',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 3200000,
+			'shareCount': 24600,
+			'commentCount': 23100,
+			'playCount': 26000000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 117,
+				'end': 127,
+				'hashtagName': 'youngrock',
+				'hashtagId': '1866601',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 128,
+				'end': 140,
+				'hashtagName': 'strikeapose',
+				'hashtagId': '395900',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	},
+	{
+		'id': '6925398623383604485',
+		'desc': 'Let’s bust our asses and let our sweat reveal our proof. Shop my NEW #ProjectRock collection in my bio. #HardestWorkersInTheRoom 💪🏽',
+		'createTime': 1612445038,
+		'video': {
+			'id': '6925398623383604485',
+			'height': 1024,
+			'width': 576,
+			'duration': 18,
+			'ratio': '720p',
+			'cover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e2e2cdbcdf9041d9b4d4a3c799203801_1612445104?x-expires=1622901600&x-signature=GsprQgsiu8BP27YG5hnLmTtWtuY%3D',
+			'originCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e32d9ebac0a34fc0b819a12223d068a0_1612445063?x-expires=1622901600&x-signature=H58%2BT92SVcqENPFGZe7enWacZVA%3D',
+			'dynamicCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/559cec0ca84c41b0b2d509622f7d7ff6_1612445040?x-expires=1622901600&x-signature=JavSjMaXn%2F5cmyTBCh4yqo4JnLI%3D',
+			'playAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/10615890dc1649ee891ac920c393c10b/?a=1988&br=1860&bt=930&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901878&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=anVvOTU0a3N5MzMzaTczM0ApNjppZThkOjs4NzllN2UzOWdrbDRyXmFyXmFgLS0tMTZzc2AwMWJiYGA2NjIvNmJfLTE6Yw%3D%3D&signature=85701b8fcfee6ae24dc6ac17ebb455d6&tk=tt_webid_v2&vl=&vr=',
+			'downloadAddr': 'https://v16-web.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/10615890dc1649ee891ac920c393c10b/?a=1988&br=1860&bt=930&cd=0%7C0%7C1&ch=0&cr=0&cs=0&cv=1&dr=0&ds=3&er=&expire=1622901878&l=202106050804200101890730172A5D794B&lr=tiktok_m&mime_type=video_mp4&net=0&pl=0&policy=2&qs=0&rc=anVvOTU0a3N5MzMzaTczM0ApNjppZThkOjs4NzllN2UzOWdrbDRyXmFyXmFgLS0tMTZzc2AwMWJiYGA2NjIvNmJfLTE6Yw%3D%3D&signature=85701b8fcfee6ae24dc6ac17ebb455d6&tk=tt_webid_v2&vl=&vr=',
+			'shareCover': [
+				'',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e32d9ebac0a34fc0b819a12223d068a0_1612445063~tplv-tiktok-play.jpeg?x-expires=1622901600&x-signature=QekibLGPs2qCc7l%2FNZETqvkB%2BD0%3D',
+				'https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/e32d9ebac0a34fc0b819a12223d068a0_1612445063~tplv-tiktok-play2.jpeg?x-expires=1622901600&x-signature=tXtMkStYdbv9s7wGkcgGzVecwdI%3D'
+			],
+			'reflowCover': 'https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/e2e2cdbcdf9041d9b4d4a3c799203801_1612445104?x-expires=1622901600&x-signature=GsprQgsiu8BP27YG5hnLmTtWtuY%3D',
+			'bitrate': 952382,
+			'encodedType': 'normal',
+			'format': 'mp4',
+			'videoQuality': 'normal',
+			'encodeUserTag': ''
+		},
+		'author': {
+			'id': '6745191554350760966',
+			'uniqueId': 'therock',
+			'nickname': 'The Rock',
+			'avatarThumb': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_100x100.jpeg?x-expires=1622966400&x-signature=Pt6P4pCmWy63P%2Bih7EWyH68MJts%3D',
+			'avatarMedium': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_720x720.jpeg?x-expires=1622966400&x-signature=6d%2BhdLMcPXej55k6lPF%2BWyd0DhM%3D',
+			'avatarLarger': 'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1647596478025734~c5_1080x1080.jpeg?x-expires=1622966400&x-signature=Kl3hNfquH3mYU1tH5DF1SydGml8%3D',
+			'signature': 'CEO of #RockTok',
+			'verified': True,
+			'secUid': 'MS4wLjABAAAAM3R2BtjzVT-uAtstkl2iugMzC6AtnpkojJbjiOdDDrdsTiTR75-8lyWJCY5VvDrZ',
+			'secret': False,
+			'ftc': False,
+			'relation': 0,
+			'openFavorite': False,
+			'commentSetting': 0,
+			'duetSetting': 0,
+			'stitchSetting': 0,
+			'privateAccount': False
+		},
+		'music': {
+			'id': '6904882035370772482',
+			'title': 'Show Out',
+			'playUrl': 'https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/5df2c2252c1b64b4e5ddb658773cd82c.m4a',
+			'coverThumb': 'https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/1614cfcd628d496a8eedb9bd0181bb11.jpeg',
+			'coverMedium': 'https://p16-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2102/1614cfcd628d496a8eedb9bd0181bb11.jpeg',
+			'coverLarge': 'https://p16-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/1614cfcd628d496a8eedb9bd0181bb11.jpeg',
+			'authorName': 'Kid Cudi & Skepta & Pop Smoke',
+			'original': False,
+			'duration': 45,
+			'album': 'Man On The Moon III: The Chosen'
+		},
+		'challenges': [
+			{
+				'id': '66829260',
+				'title': 'projectrock',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			},
+			{
+				'id': '1598360402081797',
+				'title': 'hardestworkersintheroom',
+				'desc': '',
+				'profileThumb': '',
+				'profileMedium': '',
+				'profileLarger': '',
+				'coverThumb': '',
+				'coverMedium': '',
+				'coverLarger': '',
+				'isCommerce': False
+			}
+		],
+		'stats': {
+			'diggCount': 594000,
+			'shareCount': 4936,
+			'commentCount': 7403,
+			'playCount': 4400000
+		},
+		'duetInfo': {
+			'duetFromId': '0'
+		},
+		'originalItem': False,
+		'officalItem': False,
+		'textExtra': [
+			{
+				'awemeId': '',
+				'start': 69,
+				'end': 81,
+				'hashtagName': 'projectrock',
+				'hashtagId': '66829260',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			},
+			{
+				'awemeId': '',
+				'start': 105,
+				'end': 129,
+				'hashtagName': 'hardestworkersintheroom',
+				'hashtagId': '1598360402081797',
+				'type': 1,
+				'userId': '',
+				'isCommerce': False,
+				'userUniqueId': '',
+				'secUid': ''
+			}
+		],
+		'secret': False,
+		'forFriend': False,
+		'digged': False,
+		'itemCommentStatus': 0,
+		'showNotPass': False,
+		'vl1': False,
+		'itemMute': False,
+		'authorStats': {
+			'followingCount': 1,
+			'followerCount': 36800000,
+			'heartCount': 202600000,
+			'videoCount': 42,
+			'diggCount': 9,
+			'heart': 202600000
+		},
+		'privateItem': False,
+		'duetEnabled': True,
+		'stitchEnabled': True,
+		'shareEnabled': True,
+		'isAd': False
+	}
+]
