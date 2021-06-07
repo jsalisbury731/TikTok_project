@@ -22,10 +22,12 @@ def simple_dict(tiktok_dict):
   return to_return
 
 
-
+#######################
 hashtag = 'affiliatemarketing'
-n_count = 25
+n_count = 10
 offset = 0
+#######################
+
 
 hashtag_pull = api.by_hashtag(hashtag = hashtag, count = n_count, offset = offset)
 
