@@ -4,7 +4,11 @@ from TikTokApi import TikTokApi
 verifyFp="verify_7d2989b7e9d41d606a7e16750e49379c"
 api = TikTokApi.get_instance(custom_verifyFp=verifyFp)
 
-df = pd.read_csv(f'./csv/hashtag_affiliatemarketing.csv')
+filename = './csv/hashtag_affiliatemarketing.csv'
+
+df = pd.read_csv(filename)
+
+hashtag_used = filename[6:-4]
 
 user_list = list(set(df.user_name))
 print(f'Total unique users: {len(user_list)}.')
@@ -50,6 +54,4 @@ for author in user_list:
 users_videos_df = pd.DataFrame(users_videos)
 
 
-# print(users_videos_df)
-
-users_videos_df.to_csv(f'./csv/users_videos.csv', index=False)
+users_videos_df.to_csv(f'./csv/users_videos_{hashtag_used}_{str(pd.Timestamp.now())[:19].replace(":", "-")}.csv', index=False)

@@ -23,7 +23,7 @@ def simple_dict(tiktok_dict):
 
 
 #######################
-hashtag = 'affiliatemarketing'
+hashtag = 'magiclinks'
 n_count = 10
 offset = 0
 #######################
@@ -39,4 +39,4 @@ videos_df = pd.DataFrame(videos)
 
 # print(videos_df)
 
-videos_df.to_csv(f'./csv/hashtag_{hashtag}.csv', index=False)
+videos_df.to_csv(f'./csv/hashtag_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "-")}.csv', index=False)
