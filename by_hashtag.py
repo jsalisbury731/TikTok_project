@@ -33,9 +33,6 @@ hashtag_pull = api.by_hashtag(hashtag = hashtag, count = n_count, offset = offse
 
 
 
-
-
-
 videos = [simple_dict(v) for v in hashtag_pull]
 videos_df = pd.DataFrame(videos)
 
