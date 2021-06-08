@@ -1,7 +1,12 @@
 import pandas as pd
+import time
+import datetime
+import os
 from TikTokApi import TikTokApi
 
-verifyFp = "verify_7d2989b7e9d41d606a7e16750e49379c"
+start_time = time.time()
+
+verifyFp = "verify_97866fc1d7f4ce9afd7daf6576cb749c"
 api = TikTokApi.get_instance(custom_verifyFp=verifyFp)
 
 
@@ -80,11 +85,18 @@ def user_detail(tiktok_dict):
 
 
 #######################
-hashtag = 'magiclinks'
-htag_vid_count = 15
+hashtag = 'sponsored'
+htag_vid_count = 2000
 user_vid_count = 2000
 offset = 0
 #######################
+
+
+try:
+    os.makedirs(f'./csv/{hashtag}/')
+except FileExistsError:
+    pass
+
 
 # Pull videos by hashtag via API
 hashtag_pull = api.by_hashtag(hashtag = hashtag, count = htag_vid_count, offset = offset)
@@ -93,37 +105,62 @@ hashtag_videos = [hashtag_dict(v) for v in hashtag_pull]
 # Create a dataframe for the hashtag videos
 videos_df = pd.DataFrame(hashtag_videos)
 # Output data frame to CSV
-videos_df.to_csv(f'./csv/hashtag_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
+videos_df.to_csv(f'./csv/{hashtag}/hashtag_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
 print('Hashtag videos saved to CSV.')
+
 
 # Create list of unique users from hashtag videos
 user_list = list(set(videos_df.user_name))
 # Create an empty list to append to
 users_videos = []
+user_count = 0
 # Pull all videos for each author, append to users_videos list
+# Print count for every 10 authors' videos pulled
 for author in user_list:
+
   # print(author)
-  user_videos_pull = api.by_username(username=author, count=user_vid_count)
+  user_videos_pull = api.by_username(username=author, count=user_vid_count, use_test_endpoints=True, use_selenium=True)
   users_videos_temp = [user_video(v) for v in user_videos_pull]
   for video in users_videos_temp:
-    users_videos.append(video)
+
+    # users_videos.append(video)
+    with open(f'./csv/{hashtag}/users_videos_{hashtag}.csv', 'a') as file_out:
+      file_out.write(video)
+
+  user_count += 1
+  if user_count % 10 == 0:
+    print(f'Completed pulling all videos for {user_count} authors.')
+  if user_count % 40 == 0:
+    time.sleep(300)
+  else:
+    time.sleep(10)
 # Convert users_videos list to a dataframe
 users_videos_df = pd.DataFrame(users_videos)
 # Output users_videos_df to CSV
-users_videos_df.to_csv(f'./csv/users_videos_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
+users_videos_df.to_csv(f'./csv/{hashtag}/users_videos_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
 print('Users videos saved to CSV.')
 
 
 # Create an empty list to append to
 users_details_list = []
+users_detail_count = 0
 # Pull all details for each author, append to users_details_list
+# Print count for every 10 authors' details pulled
 for author in user_list:
   # print(author)
-  user_detail_pull = api.get_user(username=author)
+  user_detail_pull = api.get_user(username=author, use_test_endpoints=True, use_selenium=True)
   users_details = user_detail(user_detail_pull)
   users_details_list.append(users_details)
+  users_detail_count += 1
+  if users_detail_count % 10 == 0:
+    print(f'Completed pulling all details for {users_detail_count} authors.')
+  time.sleep(5)
 # Convert users_details_list to a dataframe
 users_details_df = pd.DataFrame(users_details_list)
 # Output users_details_df to CSV
-users_details_df.to_csv(f'./csv/get_user_details_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
+users_details_df.to_csv(f'./csv/{hashtag}/get_user_details_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
 print('Users details saved to CSV.')
+
+
+elapsed_time = round(time.time() - start_time, 0)
+print(f'My program took {str(datetime.timedelta(seconds=elapsed_time))} to run.')
