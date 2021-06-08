@@ -2,6 +2,7 @@ import pandas as pd
 import time
 import datetime
 import os
+from csv import DictWriter
 from TikTokApi import TikTokApi
 
 start_time = time.time()
@@ -86,7 +87,7 @@ def user_detail(tiktok_dict):
 
 #######################
 hashtag = 'sponsored'
-htag_vid_count = 2000
+htag_vid_count = 5
 user_vid_count = 2000
 offset = 0
 #######################
@@ -114,6 +115,9 @@ user_list = list(set(videos_df.user_name))
 # Create an empty list to append to
 users_videos = []
 user_count = 0
+field_names = ['video_id', 'description', 'creation_time', 'duration', 'author_id',
+               'username', 'nickname', 'music_id', 'song_title', 'music_author_name',
+               'diggs', 'shares', 'comments', 'plays']
 # Pull all videos for each author, append to users_videos list
 # Print count for every 10 authors' videos pulled
 for author in user_list:
@@ -125,7 +129,9 @@ for author in user_list:
 
     # users_videos.append(video)
     with open(f'./csv/{hashtag}/users_videos_{hashtag}.csv', 'a') as file_out:
-      file_out.write(video)
+      dictwriter_obj = DictWriter(file_out, fieldnames=field_names)
+      dictwriter_obj.writerow(video)
+      file_out.close()
 
   user_count += 1
   if user_count % 10 == 0:
