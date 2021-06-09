@@ -27,3 +27,13 @@ FOLLOWERS RANGE     AVERAGE ENGAGEMENT RATE
 10M+	            21.72%
 
 
+
+
+# Omitted NBA account
+# Combine dataframes of seven >2000 users and all others
+# Calculate 'overall_engagement' (on user_detail)
+# Calculate 'video_engagement' (on user_videos)
+# Calculate 'recent_engagement' (on user_detail)
+# Convert UNIX timestampes to date/time
+# Make sure no ids are in scientific notation
+# Tag posts with #sponsored target (0 or 1)
