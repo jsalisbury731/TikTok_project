@@ -2,7 +2,7 @@ import pandas as pd
 import time
 import datetime
 import os
-from csv import DictWriter
+from csv import writer, DictWriter
 from TikTokApi import TikTokApi
 
 start_time = time.time()
@@ -55,40 +55,43 @@ def user_video(tiktok_dict):
 
 def user_detail(tiktok_dict):
   to_return = {}
-  to_return['user_name'] = []
-  to_return['user_name'].append(tiktok_dict['userInfo']['user']['uniqueId'])
-  to_return['user_id'] = []
-  to_return['user_id'].append(tiktok_dict['userInfo']['user']['id'])
-  to_return['nickname'] = []
-  to_return['nickname'].append(tiktok_dict['userInfo']['user']['nickname'])
-  to_return['account_created'] = []
-  to_return['account_created'].append(tiktok_dict['userInfo']['user']['createTime'])
-  to_return['verified'] = []
-  to_return['verified'].append(tiktok_dict['userInfo']['user']['verified'])
-  to_return['bio_link'] = []
+  to_return['user_name'] = tiktok_dict['userInfo']['user']['uniqueId']
+  # to_return['user_name'].append(tiktok_dict['userInfo']['user']['uniqueId'])
+  to_return['user_id'] = tiktok_dict['userInfo']['user']['id']
+  # to_return['user_id'].append(tiktok_dict['userInfo']['user']['id'])
+  to_return['nickname'] = tiktok_dict['userInfo']['user']['nickname']
+  # to_return['nickname'].append(tiktok_dict['userInfo']['user']['nickname'])
+  to_return['account_created'] = tiktok_dict['userInfo']['user']['createTime']
+  # to_return['account_created'].append(tiktok_dict['userInfo']['user']['createTime'])
+  to_return['verified'] = tiktok_dict['userInfo']['user']['verified']
+  # to_return['verified'].append(tiktok_dict['userInfo']['user']['verified'])
   try:
-    to_return['bio_link'].append(tiktok_dict['userInfo']['user']['bioLink']['link'])
+    to_return['bio_link'] = tiktok_dict['userInfo']['user']['bioLink']['link']
   except:
-    to_return['bio_link'].append('-')
-  to_return['followers'] = []
-  to_return['followers'].append(tiktok_dict['userInfo']['stats']['followerCount'])
-  to_return['following'] = []
-  to_return['following'].append(tiktok_dict['userInfo']['stats']['followingCount'])
-  to_return['heart'] = []
-  to_return['heart'].append(tiktok_dict['userInfo']['stats']['heart'])
-  to_return['heart_count'] = []
-  to_return['heart_count'].append(tiktok_dict['userInfo']['stats']['heartCount'])
-  to_return['videos'] = []
-  to_return['videos'].append(tiktok_dict['userInfo']['stats']['videoCount'])
-  to_return['diggs'] = []
-  to_return['diggs'].append(tiktok_dict['userInfo']['stats']['diggCount'])
+    to_return['bio_link'] = '-'
+  # try:
+  #   to_return['bio_link'].append(tiktok_dict['userInfo']['user']['bioLink']['link'])
+  # except:
+  #   to_return['bio_link'].append('-')
+  to_return['followers'] = tiktok_dict['userInfo']['stats']['followerCount']
+  # to_return['followers'].append(tiktok_dict['userInfo']['stats']['followerCount'])
+  to_return['following'] = tiktok_dict['userInfo']['stats']['followingCount']
+  # to_return['following'].append(tiktok_dict['userInfo']['stats']['followingCount'])
+  to_return['heart'] = tiktok_dict['userInfo']['stats']['heart']
+  # to_return['heart'].append(tiktok_dict['userInfo']['stats']['heart'])
+  to_return['heart_count'] = tiktok_dict['userInfo']['stats']['heartCount']
+  # to_return['heart_count'].append(tiktok_dict['userInfo']['stats']['heartCount'])
+  to_return['videos'] = tiktok_dict['userInfo']['stats']['videoCount']
+  # to_return['videos'].append(tiktok_dict['userInfo']['stats']['videoCount'])
+  to_return['diggs'] = tiktok_dict['userInfo']['stats']['diggCount']
+  # to_return['diggs'].append(tiktok_dict['userInfo']['stats']['diggCount'])
   return to_return
 
 
 #######################
 hashtag = 'sponsored'
-htag_vid_count = 5
-user_vid_count = 2000
+htag_vid_count = 2000
+user_vid_count = 4000
 offset = 0
 #######################
 
@@ -98,6 +101,8 @@ try:
 except FileExistsError:
     pass
 
+
+videos_df = pd.read_csv('./csv/sponsored/Samples/users_videos_sponsored.csv')
 
 # Pull videos by hashtag via API
 hashtag_pull = api.by_hashtag(hashtag = hashtag, count = htag_vid_count, offset = offset)
@@ -110,28 +115,41 @@ videos_df.to_csv(f'./csv/{hashtag}/hashtag_{hashtag}_{str(pd.Timestamp.now())[:1
 print('Hashtag videos saved to CSV.')
 
 
-# Create list of unique users from hashtag videos
-user_list = list(set(videos_df.user_name))
-# Create an empty list to append to
-users_videos = []
-user_count = 0
+
+
 field_names = ['video_id', 'description', 'creation_time', 'duration', 'author_id',
                'username', 'nickname', 'music_id', 'song_title', 'music_author_name',
                'diggs', 'shares', 'comments', 'plays']
+
+with open(f'./csv/{hashtag}/users_videos_{hashtag}.csv', 'a') as file_out:
+  dictwriter_obj = DictWriter(file_out, fieldnames=field_names)
+  dictwriter_obj.writeheader()
+  file_out.close()
+
+# Create list of unique users from hashtag videos
+user_list = list(set(videos_df.username))
+
+# Create an empty list to append to
+users_videos = []
+user_count = 0
+
 # Pull all videos for each author, append to users_videos list
 # Print count for every 10 authors' videos pulled
-for author in user_list:
+for author in list_2000_1:
 
   # print(author)
   user_videos_pull = api.by_username(username=author, count=user_vid_count, use_test_endpoints=True, use_selenium=True)
   users_videos_temp = [user_video(v) for v in user_videos_pull]
-  for video in users_videos_temp:
+
 
     # users_videos.append(video)
-    with open(f'./csv/{hashtag}/users_videos_{hashtag}.csv', 'a') as file_out:
-      dictwriter_obj = DictWriter(file_out, fieldnames=field_names)
+  with open(f'./csv/{hashtag}/users_videos_{hashtag}.csv', 'a') as file_out:
+    dictwriter_obj = DictWriter(file_out, fieldnames=field_names)
+
+    for video in users_videos_temp:
       dictwriter_obj.writerow(video)
-      file_out.close()
+
+    file_out.close()
 
   user_count += 1
   if user_count % 10 == 0:
@@ -141,9 +159,9 @@ for author in user_list:
   else:
     time.sleep(10)
 # Convert users_videos list to a dataframe
-users_videos_df = pd.DataFrame(users_videos)
+# users_videos_df = pd.DataFrame(users_videos)
 # Output users_videos_df to CSV
-users_videos_df.to_csv(f'./csv/{hashtag}/users_videos_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
+# users_videos_df.to_csv(f'./csv/{hashtag}/users_videos_{hashtag}_{str(pd.Timestamp.now())[:19].replace(":", "_")}.csv', index=False)
 print('Users videos saved to CSV.')
 
 

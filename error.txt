@@ -1,0 +1,88 @@
+/Users/jamessalisbury/opt/anaconda3/bin/python.app /Users/jamessalisbury/PycharmProjects/TikTok_project/all_in_one.py
+Hashtag videos saved to CSV.
+Completed pulling all videos for 10 authors.
+Completed pulling all videos for 20 authors.
+Completed pulling all videos for 30 authors.
+Completed pulling all videos for 40 authors.
+Completed pulling all videos for 50 authors.
+Completed pulling all videos for 60 authors.
+Completed pulling all videos for 70 authors.
+Completed pulling all videos for 80 authors.
+Completed pulling all videos for 90 authors.
+Completed pulling all videos for 100 authors.
+Completed pulling all videos for 110 authors.
+Completed pulling all videos for 120 authors.
+Completed pulling all videos for 130 authors.
+Completed pulling all videos for 140 authors.
+Completed pulling all videos for 150 authors.
+Completed pulling all videos for 160 authors.
+Completed pulling all videos for 170 authors.
+Completed pulling all videos for 180 authors.
+Completed pulling all videos for 190 authors.
+
+Traceback (most recent call last):
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 1332, in getresponse
+    response.begin()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 272, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 724, in urlopen
+    retries = retries.increment(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/util/retry.py", line 403, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/packages/six.py", line 734, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 426, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/urllib3/connectionpool.py", line 421, in _make_request
+    httplib_response = conn.getresponse()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 1332, in getresponse
+    response.begin()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 303, in begin
+    version, status, reason = self._read_status()
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/http/client.py", line 272, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/jamessalisbury/PycharmProjects/TikTok_project/all_in_one.py", line 135, in <module>
+    user_videos_pull = api.by_username(username=author, count=user_vid_count, use_test_endpoints=True, use_selenium=True)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/TikTokApi/tiktok.py", line 601, in by_username
+    return self.userPosts(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/TikTokApi/tiktok.py", line 564, in user_posts
+    res = self.get_data(url=api_url, **kwargs)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/TikTokApi/tiktok.py", line 241, in get_data
+    r = requests.get(
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/jamessalisbury/opt/anaconda3/lib/python3.8/site-packages/requests/adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+Process finished with exit code 1
