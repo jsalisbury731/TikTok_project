@@ -44,5 +44,8 @@ X# Create simple test dataframe to check most recent 20 videos engagement calcua
 # Consider optimal times to post for higher engagement rates
 # Consider dummifying music tracks
 ># Look at engagment levels (diggs/shares/comments) and ratios for target videos (is one type of engagement better/worse than others?)
-# Calculate percent of sponsored posts vs all posts
+X# Calculate percent of sponsored posts vs all posts
 # Delete heart_count column; rename column names
+# Look at influencers that have strong ad_engagement with respect to their recent_engagement
+# Check Linearity (and other conditions) for Linear Regression
+# Consider taking log of plays (or other features)
